@@ -18,5 +18,5 @@ INSERT INTO Employee (Code, Name, Designation, DOB, Salary) VALUES
  
  DELETE FROM Employee WHERE code = 'e2';
  
- SELECT * FROM Employee;
+ 
  
